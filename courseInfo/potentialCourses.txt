@@ -1,0 +1,85 @@
+EE 21000 - Switiching Systems
+    H-LEC (40846)
+    Tu/Th;1830-1945;kim,yang;TBA;TBA
+    false
+ 
+    P-LEC (40845)
+    Mo/We;1400-1515;tian,yingli;TBA;TBA
+    false
+ 
+    R-LEC (40847)
+    Mo/We;1830-1945;sukharenko,vitaly;TBA;TBA
+    false
+
+ENGR 10300 - Comp Aid
+    S-LEC (40829)
+    Tu/Th;1700-1750;khrais,nidal;5/101;nac, tu;1400-1450;peiris,sasanthi;581A;steinman
+    false
+
+    S2-LEC (40830)
+    Tu/Th;1700-1750;khrais,nidal;5/101;nac, tu;1100-1150;peiris,sasanthi;581A;steinman
+    false
+
+    S3-LEC (40831)
+    Tu/Th;1700-1750;khrais,nidal;5/101;nac, tu;1300-1350;peiris,sasanthi;581A;steinman
+    false
+
+    S4-LEC (40832)
+    Tu/Th;1700-1750;khrais,nidal;5/101;nac, th;1100-1150;peiris,sasanthi;581A;steinman
+    false
+
+    S5-LEC (40833)
+    Tu/Th;1700-1750;khrais,nidal;5/101;nac, th;1300-1350;peiris,TBA;TBA
+    false
+
+EE 20500 - Lin Systems 1
+    G-LEC (40842)
+    mo/we;1700-1815;barba,joseph;TBA;TBA
+    false
+	 
+    P-LEC (40843)
+    tu/th;1700-1815;gross,barry;TBA;TBA
+    false
+	 
+    R-LEC (40844)
+    tu/th;1100-1215;nizamuddin,mohammad;TBA;TBA
+    false
+
+CSC 22000 - Algorithms
+	 
+    C-LEC (30692)
+    mo/we;1100-1215;brass,peter;tba;tba
+    false
+ 
+    M-LEC (30693)
+    tu/th;1100-1215;fazio,nelly;tba;tba
+    false
+
+CSC 21200 - Data Structures
+
+    FG-LEC (30688)
+    mo/we;1600-1740;zhu,zhigang;tba;tba
+    false
+
+    KL-LEC (30689)
+    tu/th;0900-1040;naghibolohosseini;tba;tba
+    false
+
+CSC 10300 - Intro to Programming
+
+    C-LEC (30676)
+    mo/we;1100-1150;molina,edgardo;tba;tba, th;1400-1540;vigan,ivo;tba;tba
+    false
+
+    CC2-LEC (30677)
+    mo/we;1100-1150;molina,edgardo;tba;tba, th;1600-1640;vigan,ivo;tba;tba
+    false
+
+    MM-LEC (30678)
+    tu/th;1100-1150;skeith,william;tba;tba, fr;0900-1040;achilleos,antonios;tba;tba
+    false
+
+    MM2-LEC (30679)
+    tu/th;1100-1150;skeith,william;tba;tba, fr;1100-1240;achilleos,antonios;tba;tba
+    false
+

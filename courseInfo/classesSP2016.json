@@ -1,0 +1,258 @@
+[
+	{
+		"disc" : "CSC",
+		"number" : "22000",
+		"credits" : 3,
+		"prereqs" : [ "CSC 21200" ],
+		"sections" : [
+			{
+				"name" : "37148",
+				"isFull" : "false",
+				"days" : {
+					"mo" : [ { "start" : 1100, "end" : 1215, "prof" : "Brass, Peter", "room" : "S-378" } ],
+					"we" : [ { "start" : 1100, "end" : 1215, "prof" : "Brass, Peter", "room" : "S-378" } ]
+				}
+			},
+			{
+				"name" : "37149",
+				"isFull" : "false",
+				"days" : {
+					"tu" : [ { "start" : 1100, "end" : 1215, "prof" : "Fazio, N" , "room" : "S-201" } ],
+					"th" : [ { "start" : 1100, "end" : 1215, "prof" : "Fazio, N" , "room" : "S-201" } ]
+				}
+			}
+		]
+	},
+	{
+		"disc" : "CSC",
+		"number" : "34200",
+		"credits" : 3,
+		"prereqs" : [ "CSC 21000", "EE 21000" ],
+		"coreqs" : [ "CSC 34300" ],
+		"sections" : [
+			{
+				"name" : "37158",
+				"isFull" : "false",
+				"days" : {
+					"mo" : [ { "start" : 1700, "end" : 1815, "prof" : "Gertner, I", "room" : "S-210" } ],
+					"we" : [ { "start" : 1700, "end" : 1815, "prof" : "Gertner, I", "room" : "S-210" } ]
+				}
+			}
+		]
+	},
+  {
+		"disc" : "CSC",
+		"number" : "34300",
+		"credits" : 1,
+		"prereqs" : [ "CSC 21000", "EE 21000" ],
+		"coreqs" : [ "CSC 34200" ],
+		"sections" : [
+			{
+				"name" : "37159",
+				"isFull" : "false",
+				"days" : {
+					"mo" : [ { "start" : 900, "end" : 1040, "prof" : "Gertner, I", "room" : "N 4/130" } ],
+					"we" : [ { "start" : 900, "end" : 1040, "prof" : "Gertner, I", "room" : "N 4/130" } ]
+				}
+			}
+		]
+	},
+  {
+		"disc" : "EE",
+		"number" : "22100",
+		"credits" : 1,
+		"prereqs" : [ "ENGR 20400", "EE 21000" ],
+		"coreqs" : [ "ENGR 10300" ],
+		"sections" : [
+			{
+				"name" : "35465",
+				"isFull" : "false",
+				"days" : {
+					"mo" : [ { "start" : 930, "end" : 1215, "prof" : "Martinez, A", "room" : "ST-645" } ]
+				}
+			}, {
+				"name" : "35466",
+				"isFull" : "false",
+				"days" : {
+					"we" : [ { "start" : 930, "end" : 1215, "prof" : "Martinez, A", "room" : "ST-645" } ]
+				}
+			},
+      {
+				"name" : "35467",
+				"isFull" : "false",
+				"days" : {
+					"we" : [ { "start" : 1830, "end" : 2130, "prof" : "Erkan, H", "room" : "ST-645" } ]
+				}
+			}
+		]
+	},
+  {
+		"disc" : "ENGR",
+		"number" : "10300",
+		"credits" : 2,
+		"sections" : [
+      {
+				"name" : "35606",
+				"isFull" : "false",
+				"days" : {
+					"tu" : [ { "start" : 1700, "end" : 1750, "prof" : "Khrais, N", "room" : "ST-269" },
+					         { "start" : 1530, "end" : 1620, "prof" : "Peiris, S", "room" : "ST-269" } ],
+					"th" : [ { "start" : 1700, "end" : 1750, "prof" : "Khrais, N", "room" : "ST-269" } ]
+				}
+			},
+      {
+				"name" : "35607",
+				"isFull" : "false",
+				"days" : {
+					"tu" : [ { "start" : 1700, "end" : 1750, "prof" : "Khrais, N", "room" : "ST-269" },
+					         { "start" : 1300, "end" : 1350, "prof" : "Peiris, S", "room" : "ST-269" } ],
+					"th" : [ { "start" : 1700, "end" : 1750, "prof" : "Khrais, N", "room" : "ST-269" } ]
+				}
+			},
+      {
+				"name" : "35608",
+				"isFull" : "false",
+				"days" : {
+					"tu" : [ { "start" : 1700, "end" : 1750, "prof" : "Khrais, N", "room" : "ST-269" } ],
+					"th" : [ { "start" : 1700, "end" : 1750, "prof" : "Khrais, N", "room" : "ST-269" },
+					         { "start" : 1000, "end" : 1050, "prof" : "Peiris, S", "room" : "ST-161" } ] 
+				}
+			},
+      {
+				"name" : "35609",
+				"isFull" : "false",
+				"days" : {
+					"tu" : [ { "start" : 1700, "end" : 1750, "prof" : "Khrais, N", "room" : "ST-269" } ],
+					"th" : [ { "start" : 1700, "end" : 1750, "prof" : "Khrais, N", "room" : "ST-269" },
+					         { "start" : 1100, "end" : 1150, "prof" : "Peiris, S", "room" : "ST-161" } ] 
+				}
+			},
+      {
+				"name" : "35610",
+				"isFull" : "false",
+        "days" : {
+					"tu" : [ { "start" : 1700, "end" : 1750, "prof" : "Khrais, N", "room" : "ST-269" },
+					         { "start" : 1100, "end" : 1150, "prof" : "Peiris, S", "room" : "ST-269" } ],
+					"th" : [ { "start" : 1700, "end" : 1750, "prof" : "Khrais, N", "room" : "ST-269" } ]
+				}
+			}
+		]
+	},
+	{
+			"disc" : "CSC",
+			"number" : "22100",
+			"credits" : 3,
+			"prereqs" : [ "ENGL 21007", "CSC 21200" ],
+			"sections" : [
+				{
+					"name" : "37150",
+					"isFull" : "false",
+					"days" : {
+						"mo" : [ { "start" : 1530, "end" : 1645, "prof" : "Berwani, B", "room" : "N 6/327" } ],
+						"we" : [ { "start" : 1530, "end" : 1645, "prof" : "Berwani, B", "room" : "N 6/327" } ]
+					}
+				},
+        {
+					"name" : "37151",
+					"isFull" : "false",
+					"days" : {
+						"tu" : [ { "start" : 1530, "end" : 1645, "prof" : "Naghibolhosseini, N", "room" : "N 6/314" } ],
+						"th" : [ { "start" : 1530, "end" : 1645, "prof" : "Naghibolhosseini, N", "room" : "N 6/314" } ]
+					}
+				}
+			]
+	},
+  {
+		"disc" : "EE",
+		"number" : "42500",
+		"credits" : 1,
+		"coreqs" : [ "CSC 34200" ],
+		"sections" : [
+			{
+				"name" : "35495",
+				"isFull" : "false",
+				"days" : {
+					"mo" : [ { "start" : 930, "end" : 1215, "prof" : "Conner, M", "room" : "ST-619" } ]
+				}
+			},
+			{
+				"name" : "35496",
+				"isFull" : "false",
+				"days" : {
+					"tu" : [ { "start" : 1830, "end" : 2115, "prof" : "Valenti, R", "room" : "ST-619" } ]
+				}
+			},
+			{
+				"name" : "35497",
+				"isFull" : "false",
+				"days" : {
+					"we" : [ { "start" : 930, "end" : 1215, "prof" : "Valenti, R", "room" : "ST-619" } ]
+				}
+			},
+			{
+				"name" : "35498",
+				"isFull" : "false",
+				"days" : {
+					"fr" : [ { "start" : 930, "end" : 1215, "prof" : "Conner, M", "room" : "ST-619" } ]
+				}
+			}
+		]
+	},
+	{
+		"disc" : "MATH",
+		"number" : "39100",
+		"credits" : 3,
+		"prereqs" : [ "MATH 20300" ],
+		"sections" : [
+			{
+				"name" : "46990",
+				"isFull" : "false",
+				"days" : {
+					"mo" : [ { "start" : 930, "end" : 1045, "prof" : "Staff", "room" : "N 4/113" } ],
+					"we" : [ { "start" : 930, "end" : 1045, "prof" : "Staff", "room" : "N 4/113" } ]
+				}
+			},
+			{
+				"name" : "46991",
+				"isFull" : "false",
+				"days" : {
+					"mo" : [ { "start" : 1400, "end" : 1515, "prof" : "Staff", "room" : "N 6/115" } ],
+					"we" : [ { "start" : 1400, "end" : 1515, "prof" : "Staff", "room" : "N 6/115" } ]
+				}
+			},
+			{
+				"name" : "46992",
+				"isFull" : "false",
+				"days" : {
+					"tu" : [ { "start" : 1530, "end" : 1645, "prof" : "Staff", "room" : "N 4/130" } ],
+					"th" : [ { "start" : 1530, "end" : 1645, "prof" : "Staff", "room" : "N 4/130" } ]
+				}
+			},
+			{
+				"name" : "47024",
+				"isFull" : "false",
+				"days" : {
+					"mo" : [ { "start" : 800, "end" : 915, "prof" : "Staff", "room" : "N 4/113" } ],
+					"we" : [ { "start" : 800, "end" : 915, "prof" : "Staff", "room" : "N 4/113" } ]
+				}
+			},
+			{
+				"name" : "47062",
+				"isFull" : "false",
+				"days" : {
+					"tu" : [ { "start" : 800, "end" : 915, "prof" : "Staff", "room" : "N 0/201" } ],
+					"th" : [ { "start" : 800, "end" : 915, "prof" : "Staff", "room" : "N 0/201" } ]
+				}
+			},
+			{
+				"name" : "75120",
+				"isFull" : "false",
+				"days" : {
+					"tu" : [ { "start" : 1100, "end" : 1215, "prof" : "Staff", "room" : "N 7/305" } ],
+					"th" : [ { "start" : 1100, "end" : 1215, "prof" : "Staff", "room" : "N 7/305" } ]
+				}
+			}
+		]
+	}
+]
+

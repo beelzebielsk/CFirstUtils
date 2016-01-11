@@ -1,0 +1,8916 @@
+["CSC 34200","CSC 34300","CSC 22100","ENGR 10300","CSC 22000"]
+["CSC 34200","CSC 34300","EE 22100","CSC 22100","ENGR 10300","CSC 22000"]
+["CSC 34200","CSC 34300","CSC 22100","EE 42500","ENGR 10300","CSC 22000"]
+Number of Loads: 3
+Number of Viable Loads: 3
+Number of Schedules: 72
+----------Schedule # 0 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35606",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1530,
+     "end": 1620,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 1 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35606",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1530,
+     "end": 1620,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 2 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35607",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1300,
+     "end": 1350,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 3 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35607",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1300,
+     "end": 1350,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 4 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35608",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1000,
+     "end": 1050,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 5 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35608",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1000,
+     "end": 1050,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 6 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35609",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 7 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35609",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 8 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35610",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 9 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35610",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 10 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35607",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1300,
+     "end": 1350,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 11 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35607",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1300,
+     "end": 1350,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 12 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35608",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1000,
+     "end": 1050,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 13 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35608",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1000,
+     "end": 1050,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 14 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35609",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 15 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35609",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 16 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35610",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 17 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35610",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 18 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35467",
+  "days": {
+   "we": [
+    {
+     "start": 1830,
+     "end": 2130,
+     "prof": "Erkan, H",
+     "room": "ST-645"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35606",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1530,
+     "end": 1620,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 19 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35467",
+  "days": {
+   "we": [
+    {
+     "start": 1830,
+     "end": 2130,
+     "prof": "Erkan, H",
+     "room": "ST-645"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35606",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1530,
+     "end": 1620,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 20 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35467",
+  "days": {
+   "we": [
+    {
+     "start": 1830,
+     "end": 2130,
+     "prof": "Erkan, H",
+     "room": "ST-645"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35607",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1300,
+     "end": 1350,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 21 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35467",
+  "days": {
+   "we": [
+    {
+     "start": 1830,
+     "end": 2130,
+     "prof": "Erkan, H",
+     "room": "ST-645"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35607",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1300,
+     "end": 1350,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 22 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35467",
+  "days": {
+   "we": [
+    {
+     "start": 1830,
+     "end": 2130,
+     "prof": "Erkan, H",
+     "room": "ST-645"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35608",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1000,
+     "end": 1050,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 23 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35467",
+  "days": {
+   "we": [
+    {
+     "start": 1830,
+     "end": 2130,
+     "prof": "Erkan, H",
+     "room": "ST-645"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35608",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1000,
+     "end": 1050,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 24 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35467",
+  "days": {
+   "we": [
+    {
+     "start": 1830,
+     "end": 2130,
+     "prof": "Erkan, H",
+     "room": "ST-645"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35609",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 25 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35467",
+  "days": {
+   "we": [
+    {
+     "start": 1830,
+     "end": 2130,
+     "prof": "Erkan, H",
+     "room": "ST-645"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35609",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 26 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35467",
+  "days": {
+   "we": [
+    {
+     "start": 1830,
+     "end": 2130,
+     "prof": "Erkan, H",
+     "room": "ST-645"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35610",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 27 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35467",
+  "days": {
+   "we": [
+    {
+     "start": 1830,
+     "end": 2130,
+     "prof": "Erkan, H",
+     "room": "ST-645"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35610",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 28 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35467",
+  "days": {
+   "we": [
+    {
+     "start": 1830,
+     "end": 2130,
+     "prof": "Erkan, H",
+     "room": "ST-645"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35607",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1300,
+     "end": 1350,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 29 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35467",
+  "days": {
+   "we": [
+    {
+     "start": 1830,
+     "end": 2130,
+     "prof": "Erkan, H",
+     "room": "ST-645"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35607",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1300,
+     "end": 1350,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 30 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35467",
+  "days": {
+   "we": [
+    {
+     "start": 1830,
+     "end": 2130,
+     "prof": "Erkan, H",
+     "room": "ST-645"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35608",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1000,
+     "end": 1050,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 31 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35467",
+  "days": {
+   "we": [
+    {
+     "start": 1830,
+     "end": 2130,
+     "prof": "Erkan, H",
+     "room": "ST-645"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35608",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1000,
+     "end": 1050,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 32 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35467",
+  "days": {
+   "we": [
+    {
+     "start": 1830,
+     "end": 2130,
+     "prof": "Erkan, H",
+     "room": "ST-645"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35609",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 33 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35467",
+  "days": {
+   "we": [
+    {
+     "start": 1830,
+     "end": 2130,
+     "prof": "Erkan, H",
+     "room": "ST-645"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35609",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 34 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35467",
+  "days": {
+   "we": [
+    {
+     "start": 1830,
+     "end": 2130,
+     "prof": "Erkan, H",
+     "room": "ST-645"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35610",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 35 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35467",
+  "days": {
+   "we": [
+    {
+     "start": 1830,
+     "end": 2130,
+     "prof": "Erkan, H",
+     "room": "ST-645"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35610",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 36 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35496",
+  "days": {
+   "tu": [
+    {
+     "start": 1830,
+     "end": 2115,
+     "prof": "Valenti, R",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35606",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1530,
+     "end": 1620,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 37 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35496",
+  "days": {
+   "tu": [
+    {
+     "start": 1830,
+     "end": 2115,
+     "prof": "Valenti, R",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35606",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1530,
+     "end": 1620,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 38 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35496",
+  "days": {
+   "tu": [
+    {
+     "start": 1830,
+     "end": 2115,
+     "prof": "Valenti, R",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35607",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1300,
+     "end": 1350,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 39 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35496",
+  "days": {
+   "tu": [
+    {
+     "start": 1830,
+     "end": 2115,
+     "prof": "Valenti, R",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35607",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1300,
+     "end": 1350,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 40 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35496",
+  "days": {
+   "tu": [
+    {
+     "start": 1830,
+     "end": 2115,
+     "prof": "Valenti, R",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35608",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1000,
+     "end": 1050,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 41 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35496",
+  "days": {
+   "tu": [
+    {
+     "start": 1830,
+     "end": 2115,
+     "prof": "Valenti, R",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35608",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1000,
+     "end": 1050,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 42 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35496",
+  "days": {
+   "tu": [
+    {
+     "start": 1830,
+     "end": 2115,
+     "prof": "Valenti, R",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35609",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 43 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35496",
+  "days": {
+   "tu": [
+    {
+     "start": 1830,
+     "end": 2115,
+     "prof": "Valenti, R",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35609",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 44 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35496",
+  "days": {
+   "tu": [
+    {
+     "start": 1830,
+     "end": 2115,
+     "prof": "Valenti, R",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35610",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 45 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35496",
+  "days": {
+   "tu": [
+    {
+     "start": 1830,
+     "end": 2115,
+     "prof": "Valenti, R",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35610",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 46 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35498",
+  "days": {
+   "fr": [
+    {
+     "start": 930,
+     "end": 1215,
+     "prof": "Conner, M",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35606",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1530,
+     "end": 1620,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 47 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35498",
+  "days": {
+   "fr": [
+    {
+     "start": 930,
+     "end": 1215,
+     "prof": "Conner, M",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35606",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1530,
+     "end": 1620,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 48 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35498",
+  "days": {
+   "fr": [
+    {
+     "start": 930,
+     "end": 1215,
+     "prof": "Conner, M",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35607",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1300,
+     "end": 1350,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 49 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35498",
+  "days": {
+   "fr": [
+    {
+     "start": 930,
+     "end": 1215,
+     "prof": "Conner, M",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35607",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1300,
+     "end": 1350,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 50 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35498",
+  "days": {
+   "fr": [
+    {
+     "start": 930,
+     "end": 1215,
+     "prof": "Conner, M",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35608",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1000,
+     "end": 1050,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 51 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35498",
+  "days": {
+   "fr": [
+    {
+     "start": 930,
+     "end": 1215,
+     "prof": "Conner, M",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35608",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1000,
+     "end": 1050,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 52 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35498",
+  "days": {
+   "fr": [
+    {
+     "start": 930,
+     "end": 1215,
+     "prof": "Conner, M",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35609",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 53 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35498",
+  "days": {
+   "fr": [
+    {
+     "start": 930,
+     "end": 1215,
+     "prof": "Conner, M",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35609",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 54 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35498",
+  "days": {
+   "fr": [
+    {
+     "start": 930,
+     "end": 1215,
+     "prof": "Conner, M",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35610",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 55 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37150",
+  "days": {
+   "mo": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ],
+   "we": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Berwani, B",
+     "room": "N 6/327"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35498",
+  "days": {
+   "fr": [
+    {
+     "start": 930,
+     "end": 1215,
+     "prof": "Conner, M",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35610",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 56 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35496",
+  "days": {
+   "tu": [
+    {
+     "start": 1830,
+     "end": 2115,
+     "prof": "Valenti, R",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35607",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1300,
+     "end": 1350,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 57 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35496",
+  "days": {
+   "tu": [
+    {
+     "start": 1830,
+     "end": 2115,
+     "prof": "Valenti, R",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35607",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1300,
+     "end": 1350,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 58 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35496",
+  "days": {
+   "tu": [
+    {
+     "start": 1830,
+     "end": 2115,
+     "prof": "Valenti, R",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35608",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1000,
+     "end": 1050,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 59 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35496",
+  "days": {
+   "tu": [
+    {
+     "start": 1830,
+     "end": 2115,
+     "prof": "Valenti, R",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35608",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1000,
+     "end": 1050,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 60 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35496",
+  "days": {
+   "tu": [
+    {
+     "start": 1830,
+     "end": 2115,
+     "prof": "Valenti, R",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35609",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 61 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35496",
+  "days": {
+   "tu": [
+    {
+     "start": 1830,
+     "end": 2115,
+     "prof": "Valenti, R",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35609",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 62 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35496",
+  "days": {
+   "tu": [
+    {
+     "start": 1830,
+     "end": 2115,
+     "prof": "Valenti, R",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35610",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 63 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35496",
+  "days": {
+   "tu": [
+    {
+     "start": 1830,
+     "end": 2115,
+     "prof": "Valenti, R",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35610",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 64 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35498",
+  "days": {
+   "fr": [
+    {
+     "start": 930,
+     "end": 1215,
+     "prof": "Conner, M",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35607",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1300,
+     "end": 1350,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 65 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35498",
+  "days": {
+   "fr": [
+    {
+     "start": 930,
+     "end": 1215,
+     "prof": "Conner, M",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35607",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1300,
+     "end": 1350,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 66 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35498",
+  "days": {
+   "fr": [
+    {
+     "start": 930,
+     "end": 1215,
+     "prof": "Conner, M",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35608",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1000,
+     "end": 1050,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 67 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35498",
+  "days": {
+   "fr": [
+    {
+     "start": 930,
+     "end": 1215,
+     "prof": "Conner, M",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35608",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1000,
+     "end": 1050,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 68 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35498",
+  "days": {
+   "fr": [
+    {
+     "start": 930,
+     "end": 1215,
+     "prof": "Conner, M",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35609",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 69 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35498",
+  "days": {
+   "fr": [
+    {
+     "start": 930,
+     "end": 1215,
+     "prof": "Conner, M",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35609",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-161"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 70 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35498",
+  "days": {
+   "fr": [
+    {
+     "start": 930,
+     "end": 1215,
+     "prof": "Conner, M",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35610",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37148",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Brass, Peter",
+     "room": "S-378"
+    }
+   ]
+  }
+ }
+]
+----------Schedule # 71 ----------
+[
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ],
+   "we": [
+    {
+     "start": 1700,
+     "end": 1815,
+     "prof": "Gertner, I",
+     "room": "S-210"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37158",
+  "days": {
+   "mo": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ],
+   "we": [
+    {
+     "start": 900,
+     "end": 1040,
+     "prof": "Gertner, I",
+     "room": "N 4/130"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37151",
+  "days": {
+   "tu": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ],
+   "th": [
+    {
+     "start": 1530,
+     "end": 1645,
+     "prof": "Naghibolhosseini, N",
+     "room": "N 6/314"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35498",
+  "days": {
+   "fr": [
+    {
+     "start": 930,
+     "end": 1215,
+     "prof": "Conner, M",
+     "room": "ST-619"
+    }
+   ]
+  }
+ },
+ {
+  "name": "35610",
+  "days": {
+   "tu": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    },
+    {
+     "start": 1100,
+     "end": 1150,
+     "prof": "Peiris, S",
+     "room": "ST-269"
+    }
+   ],
+   "th": [
+    {
+     "start": 1700,
+     "end": 1750,
+     "prof": "Khrais, N",
+     "room": "ST-269"
+    }
+   ]
+  }
+ },
+ {
+  "name": "37149",
+  "days": {
+   "mo": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ],
+   "we": [
+    {
+     "start": 1100,
+     "end": 1215,
+     "prof": "Fazio, N",
+     "room": "S-201"
+    }
+   ]
+  }
+ }
+]

@@ -1,0 +1,636 @@
+["CSC 34200","CSC 34300","CSC 22100","ENGR 10300","CSC 22000"]
+["CSC 34200","CSC 34300","EE 22100","CSC 22100","ENGR 10300","CSC 22000"]
+["CSC 34200","CSC 34300","CSC 22100","EE 42500","ENGR 10300","CSC 22000"]
+Number of Loads: 3
+Number of Viable Loads: 3
+Number of Schedules: 72
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+ENGR 10300  35606   tu 1700-1750,tu 1530-1620,th 1700-1750  Khrais, N,Peiris, S,Khrais, N  ST-269,ST-269,ST-269
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter      S-378,S-378         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+ENGR 10300  35606   tu 1700-1750,tu 1530-1620,th 1700-1750  Khrais, N,Peiris, S,Khrais, N  ST-269,ST-269,ST-269
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N              S-201,S-201         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+ENGR 10300  35607   tu 1700-1750,tu 1300-1350,th 1700-1750  Khrais, N,Peiris, S,Khrais, N  ST-269,ST-269,ST-269
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter      S-378,S-378         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+ENGR 10300  35607   tu 1700-1750,tu 1300-1350,th 1700-1750  Khrais, N,Peiris, S,Khrais, N  ST-269,ST-269,ST-269
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N              S-201,S-201         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+ENGR 10300  35608   tu 1700-1750,th 1700-1750,th 1000-1050  Khrais, N,Khrais, N,Peiris, S  ST-269,ST-269,ST-161
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter      S-378,S-378         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+ENGR 10300  35608   tu 1700-1750,th 1700-1750,th 1000-1050  Khrais, N,Khrais, N,Peiris, S  ST-269,ST-269,ST-161
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N              S-201,S-201         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+ENGR 10300  35609   tu 1700-1750,th 1700-1750,th 1100-1150  Khrais, N,Khrais, N,Peiris, S  ST-269,ST-269,ST-161
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter      S-378,S-378         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+ENGR 10300  35609   tu 1700-1750,th 1700-1750,th 1100-1150  Khrais, N,Khrais, N,Peiris, S  ST-269,ST-269,ST-161
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N              S-201,S-201         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+ENGR 10300  35610   tu 1700-1750,tu 1100-1150,th 1700-1750  Khrais, N,Peiris, S,Khrais, N  ST-269,ST-269,ST-269
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter      S-378,S-378         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+ENGR 10300  35610   tu 1700-1750,tu 1100-1150,th 1700-1750  Khrais, N,Peiris, S,Khrais, N  ST-269,ST-269,ST-269
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N              S-201,S-201         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+ENGR 10300  35607   tu 1700-1750,tu 1300-1350,th 1700-1750  Khrais, N,Peiris, S,Khrais, N            ST-269,ST-269,ST-269
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter                S-378,S-378         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+ENGR 10300  35607   tu 1700-1750,tu 1300-1350,th 1700-1750  Khrais, N,Peiris, S,Khrais, N            ST-269,ST-269,ST-269
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N                        S-201,S-201         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+ENGR 10300  35608   tu 1700-1750,th 1700-1750,th 1000-1050  Khrais, N,Khrais, N,Peiris, S            ST-269,ST-269,ST-161
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter                S-378,S-378         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+ENGR 10300  35608   tu 1700-1750,th 1700-1750,th 1000-1050  Khrais, N,Khrais, N,Peiris, S            ST-269,ST-269,ST-161
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N                        S-201,S-201         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+ENGR 10300  35609   tu 1700-1750,th 1700-1750,th 1100-1150  Khrais, N,Khrais, N,Peiris, S            ST-269,ST-269,ST-161
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter                S-378,S-378         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+ENGR 10300  35609   tu 1700-1750,th 1700-1750,th 1100-1150  Khrais, N,Khrais, N,Peiris, S            ST-269,ST-269,ST-161
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N                        S-201,S-201         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+ENGR 10300  35610   tu 1700-1750,tu 1100-1150,th 1700-1750  Khrais, N,Peiris, S,Khrais, N            ST-269,ST-269,ST-269
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter                S-378,S-378         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+ENGR 10300  35610   tu 1700-1750,tu 1100-1150,th 1700-1750  Khrais, N,Peiris, S,Khrais, N            ST-269,ST-269,ST-269
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N                        S-201,S-201         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+EE 22100    35467   we 1830-2130                            Erkan, H                       ST-645              
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+ENGR 10300  35606   tu 1700-1750,tu 1530-1620,th 1700-1750  Khrais, N,Peiris, S,Khrais, N  ST-269,ST-269,ST-269
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter      S-378,S-378         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+EE 22100    35467   we 1830-2130                            Erkan, H                       ST-645              
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+ENGR 10300  35606   tu 1700-1750,tu 1530-1620,th 1700-1750  Khrais, N,Peiris, S,Khrais, N  ST-269,ST-269,ST-269
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N              S-201,S-201         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+EE 22100    35467   we 1830-2130                            Erkan, H                       ST-645              
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+ENGR 10300  35607   tu 1700-1750,tu 1300-1350,th 1700-1750  Khrais, N,Peiris, S,Khrais, N  ST-269,ST-269,ST-269
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter      S-378,S-378         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+EE 22100    35467   we 1830-2130                            Erkan, H                       ST-645              
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+ENGR 10300  35607   tu 1700-1750,tu 1300-1350,th 1700-1750  Khrais, N,Peiris, S,Khrais, N  ST-269,ST-269,ST-269
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N              S-201,S-201         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+EE 22100    35467   we 1830-2130                            Erkan, H                       ST-645              
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+ENGR 10300  35608   tu 1700-1750,th 1700-1750,th 1000-1050  Khrais, N,Khrais, N,Peiris, S  ST-269,ST-269,ST-161
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter      S-378,S-378         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+EE 22100    35467   we 1830-2130                            Erkan, H                       ST-645              
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+ENGR 10300  35608   tu 1700-1750,th 1700-1750,th 1000-1050  Khrais, N,Khrais, N,Peiris, S  ST-269,ST-269,ST-161
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N              S-201,S-201         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+EE 22100    35467   we 1830-2130                            Erkan, H                       ST-645              
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+ENGR 10300  35609   tu 1700-1750,th 1700-1750,th 1100-1150  Khrais, N,Khrais, N,Peiris, S  ST-269,ST-269,ST-161
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter      S-378,S-378         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+EE 22100    35467   we 1830-2130                            Erkan, H                       ST-645              
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+ENGR 10300  35609   tu 1700-1750,th 1700-1750,th 1100-1150  Khrais, N,Khrais, N,Peiris, S  ST-269,ST-269,ST-161
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N              S-201,S-201         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+EE 22100    35467   we 1830-2130                            Erkan, H                       ST-645              
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+ENGR 10300  35610   tu 1700-1750,tu 1100-1150,th 1700-1750  Khrais, N,Peiris, S,Khrais, N  ST-269,ST-269,ST-269
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter      S-378,S-378         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+EE 22100    35467   we 1830-2130                            Erkan, H                       ST-645              
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+ENGR 10300  35610   tu 1700-1750,tu 1100-1150,th 1700-1750  Khrais, N,Peiris, S,Khrais, N  ST-269,ST-269,ST-269
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N              S-201,S-201         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+EE 22100    35467   we 1830-2130                            Erkan, H                                 ST-645              
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+ENGR 10300  35607   tu 1700-1750,tu 1300-1350,th 1700-1750  Khrais, N,Peiris, S,Khrais, N            ST-269,ST-269,ST-269
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter                S-378,S-378         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+EE 22100    35467   we 1830-2130                            Erkan, H                                 ST-645              
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+ENGR 10300  35607   tu 1700-1750,tu 1300-1350,th 1700-1750  Khrais, N,Peiris, S,Khrais, N            ST-269,ST-269,ST-269
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N                        S-201,S-201         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+EE 22100    35467   we 1830-2130                            Erkan, H                                 ST-645              
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+ENGR 10300  35608   tu 1700-1750,th 1700-1750,th 1000-1050  Khrais, N,Khrais, N,Peiris, S            ST-269,ST-269,ST-161
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter                S-378,S-378         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+EE 22100    35467   we 1830-2130                            Erkan, H                                 ST-645              
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+ENGR 10300  35608   tu 1700-1750,th 1700-1750,th 1000-1050  Khrais, N,Khrais, N,Peiris, S            ST-269,ST-269,ST-161
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N                        S-201,S-201         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+EE 22100    35467   we 1830-2130                            Erkan, H                                 ST-645              
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+ENGR 10300  35609   tu 1700-1750,th 1700-1750,th 1100-1150  Khrais, N,Khrais, N,Peiris, S            ST-269,ST-269,ST-161
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter                S-378,S-378         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+EE 22100    35467   we 1830-2130                            Erkan, H                                 ST-645              
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+ENGR 10300  35609   tu 1700-1750,th 1700-1750,th 1100-1150  Khrais, N,Khrais, N,Peiris, S            ST-269,ST-269,ST-161
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N                        S-201,S-201         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+EE 22100    35467   we 1830-2130                            Erkan, H                                 ST-645              
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+ENGR 10300  35610   tu 1700-1750,tu 1100-1150,th 1700-1750  Khrais, N,Peiris, S,Khrais, N            ST-269,ST-269,ST-269
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter                S-378,S-378         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+EE 22100    35467   we 1830-2130                            Erkan, H                                 ST-645              
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+ENGR 10300  35610   tu 1700-1750,tu 1100-1150,th 1700-1750  Khrais, N,Peiris, S,Khrais, N            ST-269,ST-269,ST-269
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N                        S-201,S-201         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+EE 42500    35496   tu 1830-2115                            Valenti, R                     ST-619              
+ENGR 10300  35606   tu 1700-1750,tu 1530-1620,th 1700-1750  Khrais, N,Peiris, S,Khrais, N  ST-269,ST-269,ST-269
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter      S-378,S-378         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+EE 42500    35496   tu 1830-2115                            Valenti, R                     ST-619              
+ENGR 10300  35606   tu 1700-1750,tu 1530-1620,th 1700-1750  Khrais, N,Peiris, S,Khrais, N  ST-269,ST-269,ST-269
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N              S-201,S-201         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+EE 42500    35496   tu 1830-2115                            Valenti, R                     ST-619              
+ENGR 10300  35607   tu 1700-1750,tu 1300-1350,th 1700-1750  Khrais, N,Peiris, S,Khrais, N  ST-269,ST-269,ST-269
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter      S-378,S-378         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+EE 42500    35496   tu 1830-2115                            Valenti, R                     ST-619              
+ENGR 10300  35607   tu 1700-1750,tu 1300-1350,th 1700-1750  Khrais, N,Peiris, S,Khrais, N  ST-269,ST-269,ST-269
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N              S-201,S-201         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+EE 42500    35496   tu 1830-2115                            Valenti, R                     ST-619              
+ENGR 10300  35608   tu 1700-1750,th 1700-1750,th 1000-1050  Khrais, N,Khrais, N,Peiris, S  ST-269,ST-269,ST-161
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter      S-378,S-378         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+EE 42500    35496   tu 1830-2115                            Valenti, R                     ST-619              
+ENGR 10300  35608   tu 1700-1750,th 1700-1750,th 1000-1050  Khrais, N,Khrais, N,Peiris, S  ST-269,ST-269,ST-161
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N              S-201,S-201         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+EE 42500    35496   tu 1830-2115                            Valenti, R                     ST-619              
+ENGR 10300  35609   tu 1700-1750,th 1700-1750,th 1100-1150  Khrais, N,Khrais, N,Peiris, S  ST-269,ST-269,ST-161
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter      S-378,S-378         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+EE 42500    35496   tu 1830-2115                            Valenti, R                     ST-619              
+ENGR 10300  35609   tu 1700-1750,th 1700-1750,th 1100-1150  Khrais, N,Khrais, N,Peiris, S  ST-269,ST-269,ST-161
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N              S-201,S-201         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+EE 42500    35496   tu 1830-2115                            Valenti, R                     ST-619              
+ENGR 10300  35610   tu 1700-1750,tu 1100-1150,th 1700-1750  Khrais, N,Peiris, S,Khrais, N  ST-269,ST-269,ST-269
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter      S-378,S-378         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+EE 42500    35496   tu 1830-2115                            Valenti, R                     ST-619              
+ENGR 10300  35610   tu 1700-1750,tu 1100-1150,th 1700-1750  Khrais, N,Peiris, S,Khrais, N  ST-269,ST-269,ST-269
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N              S-201,S-201         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+EE 42500    35498   fr 930-1215                             Conner, M                      ST-619              
+ENGR 10300  35606   tu 1700-1750,tu 1530-1620,th 1700-1750  Khrais, N,Peiris, S,Khrais, N  ST-269,ST-269,ST-269
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter      S-378,S-378         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+EE 42500    35498   fr 930-1215                             Conner, M                      ST-619              
+ENGR 10300  35606   tu 1700-1750,tu 1530-1620,th 1700-1750  Khrais, N,Peiris, S,Khrais, N  ST-269,ST-269,ST-269
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N              S-201,S-201         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+EE 42500    35498   fr 930-1215                             Conner, M                      ST-619              
+ENGR 10300  35607   tu 1700-1750,tu 1300-1350,th 1700-1750  Khrais, N,Peiris, S,Khrais, N  ST-269,ST-269,ST-269
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter      S-378,S-378         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+EE 42500    35498   fr 930-1215                             Conner, M                      ST-619              
+ENGR 10300  35607   tu 1700-1750,tu 1300-1350,th 1700-1750  Khrais, N,Peiris, S,Khrais, N  ST-269,ST-269,ST-269
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N              S-201,S-201         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+EE 42500    35498   fr 930-1215                             Conner, M                      ST-619              
+ENGR 10300  35608   tu 1700-1750,th 1700-1750,th 1000-1050  Khrais, N,Khrais, N,Peiris, S  ST-269,ST-269,ST-161
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter      S-378,S-378         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+EE 42500    35498   fr 930-1215                             Conner, M                      ST-619              
+ENGR 10300  35608   tu 1700-1750,th 1700-1750,th 1000-1050  Khrais, N,Khrais, N,Peiris, S  ST-269,ST-269,ST-161
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N              S-201,S-201         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+EE 42500    35498   fr 930-1215                             Conner, M                      ST-619              
+ENGR 10300  35609   tu 1700-1750,th 1700-1750,th 1100-1150  Khrais, N,Khrais, N,Peiris, S  ST-269,ST-269,ST-161
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter      S-378,S-378         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+EE 42500    35498   fr 930-1215                             Conner, M                      ST-619              
+ENGR 10300  35609   tu 1700-1750,th 1700-1750,th 1100-1150  Khrais, N,Khrais, N,Peiris, S  ST-269,ST-269,ST-161
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N              S-201,S-201         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+EE 42500    35498   fr 930-1215                             Conner, M                      ST-619              
+ENGR 10300  35610   tu 1700-1750,tu 1100-1150,th 1700-1750  Khrais, N,Peiris, S,Khrais, N  ST-269,ST-269,ST-269
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter      S-378,S-378         
+
+name        number  time                                    prof                           room                
+----------  ------  --------------------------------------  -----------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I          S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I          N 4/130,N 4/130     
+CSC 22100   37150   mo 1530-1645,we 1530-1645               Berwani, B,Berwani, B          N 6/327,N 6/327     
+EE 42500    35498   fr 930-1215                             Conner, M                      ST-619              
+ENGR 10300  35610   tu 1700-1750,tu 1100-1150,th 1700-1750  Khrais, N,Peiris, S,Khrais, N  ST-269,ST-269,ST-269
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N              S-201,S-201         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+EE 42500    35496   tu 1830-2115                            Valenti, R                               ST-619              
+ENGR 10300  35607   tu 1700-1750,tu 1300-1350,th 1700-1750  Khrais, N,Peiris, S,Khrais, N            ST-269,ST-269,ST-269
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter                S-378,S-378         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+EE 42500    35496   tu 1830-2115                            Valenti, R                               ST-619              
+ENGR 10300  35607   tu 1700-1750,tu 1300-1350,th 1700-1750  Khrais, N,Peiris, S,Khrais, N            ST-269,ST-269,ST-269
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N                        S-201,S-201         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+EE 42500    35496   tu 1830-2115                            Valenti, R                               ST-619              
+ENGR 10300  35608   tu 1700-1750,th 1700-1750,th 1000-1050  Khrais, N,Khrais, N,Peiris, S            ST-269,ST-269,ST-161
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter                S-378,S-378         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+EE 42500    35496   tu 1830-2115                            Valenti, R                               ST-619              
+ENGR 10300  35608   tu 1700-1750,th 1700-1750,th 1000-1050  Khrais, N,Khrais, N,Peiris, S            ST-269,ST-269,ST-161
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N                        S-201,S-201         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+EE 42500    35496   tu 1830-2115                            Valenti, R                               ST-619              
+ENGR 10300  35609   tu 1700-1750,th 1700-1750,th 1100-1150  Khrais, N,Khrais, N,Peiris, S            ST-269,ST-269,ST-161
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter                S-378,S-378         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+EE 42500    35496   tu 1830-2115                            Valenti, R                               ST-619              
+ENGR 10300  35609   tu 1700-1750,th 1700-1750,th 1100-1150  Khrais, N,Khrais, N,Peiris, S            ST-269,ST-269,ST-161
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N                        S-201,S-201         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+EE 42500    35496   tu 1830-2115                            Valenti, R                               ST-619              
+ENGR 10300  35610   tu 1700-1750,tu 1100-1150,th 1700-1750  Khrais, N,Peiris, S,Khrais, N            ST-269,ST-269,ST-269
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter                S-378,S-378         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+EE 42500    35496   tu 1830-2115                            Valenti, R                               ST-619              
+ENGR 10300  35610   tu 1700-1750,tu 1100-1150,th 1700-1750  Khrais, N,Peiris, S,Khrais, N            ST-269,ST-269,ST-269
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N                        S-201,S-201         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+EE 42500    35498   fr 930-1215                             Conner, M                                ST-619              
+ENGR 10300  35607   tu 1700-1750,tu 1300-1350,th 1700-1750  Khrais, N,Peiris, S,Khrais, N            ST-269,ST-269,ST-269
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter                S-378,S-378         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+EE 42500    35498   fr 930-1215                             Conner, M                                ST-619              
+ENGR 10300  35607   tu 1700-1750,tu 1300-1350,th 1700-1750  Khrais, N,Peiris, S,Khrais, N            ST-269,ST-269,ST-269
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N                        S-201,S-201         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+EE 42500    35498   fr 930-1215                             Conner, M                                ST-619              
+ENGR 10300  35608   tu 1700-1750,th 1700-1750,th 1000-1050  Khrais, N,Khrais, N,Peiris, S            ST-269,ST-269,ST-161
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter                S-378,S-378         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+EE 42500    35498   fr 930-1215                             Conner, M                                ST-619              
+ENGR 10300  35608   tu 1700-1750,th 1700-1750,th 1000-1050  Khrais, N,Khrais, N,Peiris, S            ST-269,ST-269,ST-161
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N                        S-201,S-201         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+EE 42500    35498   fr 930-1215                             Conner, M                                ST-619              
+ENGR 10300  35609   tu 1700-1750,th 1700-1750,th 1100-1150  Khrais, N,Khrais, N,Peiris, S            ST-269,ST-269,ST-161
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter                S-378,S-378         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+EE 42500    35498   fr 930-1215                             Conner, M                                ST-619              
+ENGR 10300  35609   tu 1700-1750,th 1700-1750,th 1100-1150  Khrais, N,Khrais, N,Peiris, S            ST-269,ST-269,ST-161
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N                        S-201,S-201         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+EE 42500    35498   fr 930-1215                             Conner, M                                ST-619              
+ENGR 10300  35610   tu 1700-1750,tu 1100-1150,th 1700-1750  Khrais, N,Peiris, S,Khrais, N            ST-269,ST-269,ST-269
+CSC 22000   37148   mo 1100-1215,we 1100-1215               Brass, Peter,Brass, Peter                S-378,S-378         
+
+name        number  time                                    prof                                     room                
+----------  ------  --------------------------------------  ---------------------------------------  --------------------
+CSC 34200   37158   mo 1700-1815,we 1700-1815               Gertner, I,Gertner, I                    S-210,S-210         
+CSC 34300   37159   mo 900-1040,we 900-1040                 Gertner, I,Gertner, I                    N 4/130,N 4/130     
+CSC 22100   37151   tu 1530-1645,th 1530-1645               Naghibolhosseini, N,Naghibolhosseini, N  N 6/314,N 6/314     
+EE 42500    35498   fr 930-1215                             Conner, M                                ST-619              
+ENGR 10300  35610   tu 1700-1750,tu 1100-1150,th 1700-1750  Khrais, N,Peiris, S,Khrais, N            ST-269,ST-269,ST-269
+CSC 22000   37149   mo 1100-1215,we 1100-1215               Fazio, N,Fazio, N                        S-201,S-201         
+
