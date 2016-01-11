@@ -1,0 +1,1205 @@
+												
+	
+		
+	
+				
+	
+						
+	
+		
+	
+GO!
+	
+
+
+	
+Adam Ibrahim
+	
+	
+ 											
+	
+Search
+		
+Plan
+		
+Enroll
+		
+My Academics
+
+											
+ 
+	
+ 					
+	
+search for classes
+		
+browse course catalog
+
+					
+ 
+
+	
+Search for Classes
+	
+Search Results
+
+
+
+
+	
+City College | 2016 Spring Term
+	
+				
+	
+				
+	
+	
+	
+show all
+
+	
+My Class Schedule
+	
+	
+
+
+
+	
+CSC 22000
+TuTh 11:00AM - 12:15PM
+NAC 5/126
+
+	
+				
+	
+	
+	
+show all
+
+	
+Shopping Cart
+	
+	
+
+
+
+	
+CSC 22000
+MoWe 11:00AM - 12:15PM
+Shepard S-378
+
+
+	
+
+
+	
+		
+	
+The following classes match your search criteria Course Subject: CSC - Computer Science,  Course Number greater than or equal to '0',  Show Open Classes Only: No
+ 
+
+
+	
+		
+	
+								
+	
+Open
+	
+Closed
+	
+Wait List
+	
+Open
+	
+Closed
+	
+Wait List
+
+
+
+
+	
+			
+	
+	
+	
+New Search
+	
+	
+Modify Search
+
+
+	
+		
+	
+47 class section(s) found
+		
+	
+		
+	
+Collapse section CSC 10000 - Introduction to Programming and Computer Science CSC 10000 - Introduction to Programming and Computer Science 
+		
+	
+		
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37128
+KL-LEC
+Regular
+TuTh 9:00AM - 10:40AM
+NAC 7/225
+Devendra Kumar
+01/29/2016 - 05/28/2016
+ Open
+select
+
+
+
+
+
+
+	
+Collapse section CSC 10200 - Introduction to Computing CSC 10200 - Introduction to Computing 
+		
+	
+		
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37129
+EE-LEC
+Regular
+MoWe 2:00PM - 2:50PM
+Mo 5:00PM - 6:40PM
+Steinman 161
+NAC 7/107
+Muharrem Uyar
+Staff
+01/29/2016 - 05/28/2016
+01/29/2016 - 05/28/2016
+ Closed
+select
+
+
+
+
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37130
+EE2-LEC
+Regular
+MoWe 2:00PM - 2:50PM
+Mo 5:00PM - 6:40PM
+Steinman 161
+NAC 7/117
+Muharrem Uyar
+Staff
+01/29/2016 - 05/28/2016
+01/29/2016 - 05/28/2016
+ Closed
+select
+
+
+
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+69204
+EE3-LEC
+Regular
+MoWe 2:00PM - 3:00PM
+We 5:00PM - 6:40PM
+Steinman 161
+NAC 7/107
+Muharrem Uyar
+Staff
+01/29/2016 - 05/28/2016
+01/29/2016 - 05/28/2016
+ Closed
+select
+
+
+
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+69207
+EE4-LEC
+Regular
+MoWe 2:00PM - 2:50PM
+We 5:00PM - 6:40PM
+Steinman 161
+NAC 7/117
+Muharrem Uyar
+Staff
+01/29/2016 - 05/28/2016
+01/29/2016 - 05/28/2016
+ Closed
+select
+
+
+
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+69214
+MM-LEC
+Regular
+TuTh 2:00PM - 2:50PM
+Tu 5:00PM - 6:40PM
+Steinman 161
+NAC 7/107
+Douglas Troeger
+Farnaz Abtahi
+01/29/2016 - 05/28/2016
+01/29/2016 - 05/28/2016
+ Closed
+select
+
+
+
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+69227
+MM2-LEC
+Regular
+TuTh 2:00PM - 2:50PM
+Tu 5:00PM - 6:40PM
+Steinman 161
+NAC 7/117
+Douglas Troeger
+Chi Liu
+01/29/2016 - 05/28/2016
+01/29/2016 - 05/28/2016
+ Open
+select
+
+
+
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+69230
+MM3-LEC
+Regular
+TuTh 2:00PM - 2:50PM
+Th 5:00PM - 6:40PM
+Steinman 161
+NAC 7/107
+Douglas Troeger
+Farnaz Abtahi
+01/29/2016 - 05/28/2016
+01/29/2016 - 05/28/2016
+ Open
+select
+
+
+
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+69231
+MM4-LEC
+Regular
+TuTh 2:00PM - 2:50PM
+Th 5:00PM - 6:40PM
+Steinman 161
+NAC 7/117
+Douglas Troeger
+Chi Liu
+01/29/2016 - 05/28/2016
+01/29/2016 - 05/28/2016
+ Open
+select
+
+
+
+
+	
+Collapse section CSC 10300 - Introduction to Computing for Majors CSC 10300 - Introduction to Computing for Majors 
+		
+	
+		
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37135
+CC-LEC
+Regular
+MoWe 11:00AM - 11:50AM
+Mo 2:00PM - 3:40PM
+Marshak MR1
+NAC 7/107
+Akira Kawaguchi
+Jeffrey Gitlin
+01/29/2016 - 05/28/2016
+01/29/2016 - 05/28/2016
+ Closed
+select
+
+
+
+
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37136
+CC2-LEC
+Regular
+MoWe 11:00AM - 11:50AM
+We 2:00PM - 3:40PM
+Marshak MR1
+NAC 7/107
+Akira Kawaguchi
+Jeffrey Gitlin
+01/29/2016 - 05/28/2016
+01/29/2016 - 05/28/2016
+ Closed
+select
+
+
+
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+77621
+CC3-LEC
+Regular
+MoWe 11:00AM - 11:50AM
+We 2:00PM - 3:40PM
+Marshak MR1
+NAC 7/117
+Akira Kawaguchi
+Staff
+01/29/2016 - 05/28/2016
+01/29/2016 - 05/28/2016
+ Closed
+select
+
+
+
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37137
+MM-LEC
+Regular
+TuTh 11:00AM - 11:50AM
+Tu 2:00PM - 3:40PM
+Marshak MR4
+NAC 7/107
+William Skeith
+Bin Mu
+01/29/2016 - 05/28/2016
+01/29/2016 - 05/28/2016
+ Closed
+select
+
+
+
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37138
+MM2-LEC
+Regular
+TuTh 11:00AM - 11:50AM
+Th 2:00PM - 3:40PM
+Marshak MR4
+NAC 7/107
+William Skeith
+Bin Mu
+01/29/2016 - 05/28/2016
+01/29/2016 - 05/28/2016
+ Closed
+select
+
+
+
+
+	
+Collapse section CSC 10400 - Discrete Mathematical Structures I CSC 10400 - Discrete Mathematical Structures I 
+		
+	
+		
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37139
+FG-LEC
+Regular
+MoWe 4:00PM - 5:40PM
+Fr 1:00PM - 2:40PM
+Shepard S-376
+NAC 7/225
+Stephen Lucci
+Nihal Vatandas
+01/29/2016 - 05/28/2016
+01/29/2016 - 05/28/2016
+ Closed
+select
+
+
+
+
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+78268
+KL-LEC
+Regular
+TuTh 9:00AM - 10:40AM
+Tu 1:00PM - 2:40PM
+TBA
+TBA
+Pavel Rytir
+Staff
+01/29/2016 - 05/28/2016
+01/29/2016 - 05/28/2016
+ Open
+select
+
+
+
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37141
+PR-LEC
+Regular
+TuTh 2:00PM - 3:40PM
+Fr 3:00PM - 4:40PM
+NAC 6/306
+NAC 6/111
+Kaliappa Ravindran
+Nihal Vatandas
+01/29/2016 - 05/28/2016
+01/29/2016 - 05/28/2016
+ Closed
+select
+
+
+
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37140
+RS-LEC
+Regular
+TuTh 4:00PM - 5:40PM
+Tu 11:00AM - 12:40PM
+NAC 4/222
+Shepard 381
+Leonid Gurvits
+Staff
+01/29/2016 - 05/28/2016
+01/29/2016 - 05/28/2016
+ Closed
+select
+
+
+
+
+	
+Collapse section CSC 11300 - Programming Lang CSC 11300 - Programming Lang 
+		
+	
+		
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+78241
+2B-LEC
+Regular
+Tu 9:30AM - 10:45AM
+TBA
+Staff
+01/29/2016 - 05/28/2016
+ Open
+select
+
+
+
+
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37142
+2D-LEC
+Regular
+Tu 12:30PM - 1:45PM
+Baskervill 106
+Gregory Olmschenk
+01/29/2016 - 05/28/2016
+ Closed
+select
+
+
+
+
+	
+Collapse section CSC 21000 - Computers and Assembly Language Programming CSC 21000 - Computers and Assembly Language Programming 
+		
+	
+		
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37143
+C-LEC
+Regular
+MoWe 11:00AM - 12:15PM
+NAC 6/327
+Michael Vulis
+01/29/2016 - 05/28/2016
+ Closed
+select
+
+
+
+
+
+	
+Collapse section CSC 21100 - Fundamentals of Computer Systems CSC 21100 - Fundamentals of Computer Systems 
+		
+	
+		
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37144
+E-LEC
+Regular
+MoWe 2:00PM - 3:15PM
+MoWe 6:30PM - 7:20PM
+NAC 6/113
+NAC 6/314
+Isidor Gertner
+Isidor Gertner
+01/29/2016 - 05/28/2016
+01/29/2016 - 05/28/2016
+ Closed
+select
+
+
+
+
+
+	
+Collapse section CSC 21200 - Data Structures CSC 21200 - Data Structures 
+		
+	
+		
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37145
+BC-LEC
+Regular
+MoWe 10:00AM - 11:40AM
+NAC 6/310
+George Wolberg
+01/29/2016 - 05/28/2016
+ Closed
+select
+
+
+
+
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+77419
+LM-LEC
+Regular
+TuTh 10:00AM - 11:40AM
+NAC 6/150
+Nooreddin Naghibolhosseini
+01/29/2016 - 05/28/2016
+ Open
+select
+
+
+
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37146
+PR-LEC
+Regular
+TuTh 2:00PM - 3:40PM
+NAC 6/327
+William Skeith
+01/29/2016 - 05/28/2016
+ Open
+select
+
+
+
+
+	
+Collapse section CSC 21700 - Probability and Statistics for Computer Science CSC 21700 - Probability and Statistics for Computer Science 
+		
+	
+		
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37147
+P-LEC
+Regular
+TuTh 2:00PM - 3:15PM
+NAC 6/328
+Irina Gladkova
+01/29/2016 - 05/28/2016
+ Closed
+select
+
+
+
+
+
+	
+Collapse section CSC 22000 - Algorithms CSC 22000 - Algorithms 
+		
+	
+		
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37148
+C-LEC
+Regular
+MoWe 11:00AM - 12:15PM
+Shepard S-378
+Peter Brass
+01/29/2016 - 05/28/2016
+ Open
+ 
+
+
+
+
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37149
+M-LEC
+Regular
+TuTh 11:00AM - 12:15PM
+NAC 5/126
+Nelly Fazio
+01/29/2016 - 05/28/2016
+ Closed
+ 
+
+
+
+
+	
+Collapse section CSC 22100 - Software Design Laboratory CSC 22100 - Software Design Laboratory 
+		
+	
+		
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37150
+F-LEC
+Regular
+MoWe 3:30PM - 4:45PM
+NAC 6/327
+Bhisham Bherwani
+01/29/2016 - 05/28/2016
+ Closed
+ 
+
+
+
+
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37151
+R-LEC
+Regular
+TuTh 3:30PM - 4:45PM
+NAC 6/314
+Nooreddin Naghibolhosseini
+01/29/2016 - 05/28/2016
+ Closed
+ 
+
+
+
+
+	
+Collapse section CSC 30100 - Numerical Issues in Scientific Programming CSC 30100 - Numerical Issues in Scientific Programming 
+		
+	
+		
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37152
+M-LEC
+Regular
+TuTh 11:00AM - 12:15PM
+NAC 5/124
+Leonid Gurvits
+01/29/2016 - 05/28/2016
+ Open
+select
+
+
+
+
+
+	
+Collapse section CSC 30400 - Introduction to Theoretical Computer Science CSC 30400 - Introduction to Theoretical Computer Science 
+		
+	
+		
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37153
+P-LEC
+Regular
+TuTh 2:00PM - 3:15PM
+NAC 6/314
+Leonid Gurvits
+01/29/2016 - 05/28/2016
+ Open
+select
+
+
+
+
+
+	
+Collapse section CSC 32200 - Software Engineering CSC 32200 - Software Engineering 
+		
+	
+		
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37154
+E-LEC
+Regular
+MoWe 2:00PM - 3:15PM
+Fr 2:00PM - 3:40PM
+NAC 4/121B
+NAC 4/156
+Michael Vulis
+Arun Adiththan
+01/29/2016 - 05/28/2016
+01/29/2016 - 05/28/2016
+ Closed
+select
+
+
+
+
+
+	
+Collapse section CSC 33200 - Operating Systems CSC 33200 - Operating Systems 
+		
+	
+		
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37155
+M-LEC
+Regular
+TuTh 11:00AM - 12:15PM
+Fr 10:00AM - 11:40AM
+NAC 6/114
+NAC 4/222
+Devendra Kumar
+Arun Adiththan
+01/29/2016 - 05/28/2016
+01/29/2016 - 05/28/2016
+ Closed
+select
+
+
+
+
+
+	
+Collapse section CSC 33500 - Programming Language Paradigms CSC 33500 - Programming Language Paradigms 
+		
+	
+		
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37156
+R-LEC
+Regular
+TuTh 3:30PM - 4:45PM
+Shepard S-308
+Douglas Troeger
+01/29/2016 - 05/28/2016
+ Closed
+select
+
+
+
+
+
+	
+Collapse section CSC 33600 - Introduction to Database Systems CSC 33600 - Introduction to Database Systems 
+		
+	
+		
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37157
+P-LEC
+Regular
+TuTh 2:00PM - 3:15PM
+NAC 4/121B
+Peter Barnett
+01/29/2016 - 05/28/2016
+ Closed
+select
+
+
+
+
+
+	
+Collapse section CSC 34200 - Computer Organization CSC 34200 - Computer Organization 
+		
+	
+		
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37158
+G-LEC
+Regular
+MoWe 5:00PM - 6:15PM
+Shepard S-210
+Isidor Gertner
+01/29/2016 - 05/28/2016
+ Closed
+ 
+
+
+
+
+
+	
+Collapse section CSC 34300 - Computer Systems Design Laboratory CSC 34300 - Computer Systems Design Laboratory 
+		
+	
+		
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37159
+BC-LEC
+Regular
+MoWe 9:00AM - 10:40AM
+NAC 4/130
+Isidor Gertner
+01/29/2016 - 05/28/2016
+ Closed
+ 
+
+
+
+
+
+	
+Collapse section CSC 42000 - Compiler Construction CSC 42000 - Compiler Construction 
+		
+	
+		
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37162
+F-LEC
+Regular
+MoWe 3:30PM - 4:45PM
+NAC 6/329
+Michael Vulis
+01/29/2016 - 05/28/2016
+ Open
+select
+
+
+
+
+
+	
+Collapse section CSC 42200 - Computability CSC 42200 - Computability 
+		
+	
+		
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+50571
+P-LEC
+Regular
+TuTh 2:00PM - 3:15PM
+Shepard S-376
+Pavel Rytir
+01/29/2016 - 05/28/2016
+ Open
+select
+
+
+
+
+
+	
+Collapse section CSC 44200 - Systems Simulation CSC 44200 - Systems Simulation 
+		
+	
+		
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37163
+S-LEC
+Regular
+TuTh 5:00PM - 6:15PM
+NAC 6/328
+Kaliappa Ravindran
+01/29/2016 - 05/28/2016
+ Open
+select
+
+
+
+
+
+	
+Collapse section CSC 51003 - Independent Study CSC 51003 - Independent Study 
+		
+	
+		
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+76267
+Q-LEC
+Regular
+TBA
+TBA
+George Wolberg
+01/29/2016 - 05/28/2016
+ Closed
+select
+
+
+
+
+
+	
+Collapse section CSC 59866 - Senior Project I CSC 59866 - Senior Project I 
+		
+	
+		
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37160
+CD-LEC
+Regular
+MoWe 11:00AM - 12:15PM
+MoWe 12:30PM - 1:45PM
+Shepard S-276
+Shepard 381
+Abbe Mowshowitz
+George Wolberg
+01/29/2016 - 05/28/2016
+01/29/2016 - 05/28/2016
+ Open
+select
+
+
+
+
+
+	
+Collapse section CSC 59867 - Senior Project II CSC 59867 - Senior Project II 
+		
+	
+		
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+37161
+PRAC-LEC
+Regular
+We 11:00AM - 1:30PM
+NAC 6/268
+Jizhong Xiao
+01/29/2016 - 05/28/2016
+ Open
+select
+
+
+
+
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+54280
+PRC2-LEC
+Regular
+Mo 11:00AM - 1:30PM
+Shepard S-201
+Jie Wei
+01/29/2016 - 05/28/2016
+ Open
+select
+
+
+
+
+	
+Collapse section CSC 59927 - Big Data Management and Analysis CSC 59927 - Big Data Management and Analysis 
+		
+	
+		
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+72440
+B-LEC
+Regular
+MoWe 9:30AM - 10:45AM
+Shepard S-379
+Huy Vo
+01/29/2016 - 05/28/2016
+ Open
+select
+
+
+
+
+
+	
+Collapse section CSC 59969 - Visualization CSC 59969 - Visualization 
+		
+	
+		
+	
+		
+	
+Class	Section	Days & Times	Room	Instructor	Meeting Dates	Status	 
+50662
+R-LEC
+Regular
+TuTh 3:30PM - 4:45PM
+NAC 6/328
+Michael Grossberg
+01/29/2016 - 05/28/2016
+ Open
+select
+
+
+
+
+
+
+
+
+
+	
+	
+	
+New Search
+	
+	
+Modify Search
+
+
+	
+		
+	
+							
+	
+
+	
+ 	Search	 	 	 	Plan	 	 	 	Enroll	 	 	 	My Academics	 	 
+ 
+	
+ 	Search For Classes	 	 	 	Browse Course Catalog	 	 
+ 	
+
+
+	
+		
+	
+GO!
+	
+
+
+
+
+
+
+
+
