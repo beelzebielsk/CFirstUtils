@@ -3,7 +3,7 @@ schedule-building side of my program should have.
 
 # Objects:
 
-Course {
+Course { 
 	sections : [sections],
 	name : String // name of course,
 	disc: String // CST, MATH, so on...,
@@ -51,8 +51,8 @@ Section {
 }
 
 Session {
-	start : Date,
-	end : Date,
+	start : Time,
+	end : Time
 	prof: String // Professor Name ,
 	room : String // Room number, plus any letter prefixes,
 	building : String // Name of building that session takes place in
