@@ -22,6 +22,9 @@ var CFID = '\\d{5}';
 var day_cap = '(Su|Mo|Tu|We|Th|Fr|Sa)';
 var day_noCap =  '(?:Su|Mo|Tu|We|Th|Fr|Sa)';
 var time = '\\d{1,2}:\\d{2}(?:AM|PM)';
+var time_cap =  '(\\d{1,2}):(\\d{2})(AM|PM)' 
+var timeString_cap = "(" + day_noCap + "+) "
+						+ time_cap + " - " + time_cap;
 var dayTimeRange = day_noCap + '+ ' + time + ' - ' + time;
 var buildingName = '(?:Marshak|NAC)'
 var room = buildingName + ' [\\w\\d/]+';
@@ -30,7 +33,6 @@ var date = '\\d{2}/\\d{2}/\\d{4}';
 var dateRange = date + ' - ' + date;
 var sectionStatus_noCap = '(?:Open|Closed)';
 var sectionStatus_Cap = '(Open|Closed)';
-
 var sectionChunk = 
 	sectionHeading_noCap + '\\n'
 	+ '^(' + CFID + ')$' + '\\n'
@@ -76,26 +78,63 @@ function processInput() {
 		while(true) {
 			var result = oneSection.exec(courseSection);
 			if (!result) break;
-			//console.log(result);
-			sections[j] = { name: boundaryInfo.courses[i].name };
-			sections[j].disc =  boundaryInfo.courses[i].disc;
-			sections[j].num = boundaryInfo.courses[i].num;
-			sections[j].CFID = result[1];
-			sections[j].sectionName = result[2];
-			sections[j].sectionType = result[3];
-			sections[j].times = result[4];
-			sections[j].rooms = result[5];
-			sections[j].instructors = result[6];
-			sections[j].meetingDates = result[7];
-			sections[j].isFull = result[8].trim();
+			var sectionInfo = { 
+				times       : result[4].trim().split('\n'),
+				rooms       : result[5].trim().split('\n'),
+				instructors : result[6].trim().split('\n'),
+				dates				: result[7].trim().split('\n'),
+			};
+			sections[j]              = { name: boundaryInfo.courses[i].name };
+			sections[j].disc         = boundaryInfo.courses[i].disc;
+			sections[j].num          = boundaryInfo.courses[i].num;
+			sections[j].CFID         = result[1];
+			sections[j].sectionName  = result[2];
+			sections[j].sectionType  = result[3];
+			sections[j].isFull       = ( result[8].trim()[0] === 'O' ? false : true ); // Is it open?
+			sections[j].days = {};
+
+			for (var sessionSet = 0; sessionSet < sectionInfo.times.length; sessionSet++) {
+				var singleTime = RegExp(timeString_cap, 'i');
+				var matches = sectionInfo.times[sessionSet].match(singleTime);
+				// the singleTime regexp should have the following captures:
+				// -	0 : Whole string
+				// -	1 : String of consecutive days
+				// -	2 : Hour of first time
+				// -	3 : Minutes of first time
+				// -	4 : AM/PM of first time
+				// -	5 : Hour of second time    
+				// -	6 : Minutes of second time 
+				// -	7 : AM/PM of second time   
+				//console.log(matches); // DEBUG
+				var sectionDays = [];
+				for (var strIndex = 0; strIndex < matches[1].length ; strIndex += 2) {
+					sectionDays.push( matches[1].substr(strIndex, 2) )
+				}
+				//console.log(sectionDays); // DEBUG
+				var attendanceTime = sectionInfo.dates[sessionSet].match( RegExp( '(' + date + ') - (' + date + ')', 'i' ) );
+				var sessionStart = + (matches[2] + matches[3]) + ( matches[4] === "AM" ? 0 : 1200 );  
+				var sessionEnd = + (matches[5] + matches[6]) + ( matches[7] === "AM" ? 0 : 1200 );
+				for (var day of sectionDays) {
+					var singleSession = {
+						start    : sessionStart,
+						end      : sessionEnd,
+						prof     : sectionInfo.instructors[sessionSet],
+						room     : sectionInfo.rooms[sessionSet],
+						firstDay : attendanceTime[1],
+						lastDay  : attendanceTime[2],
+					}
+					//console.log(singleSession) // DEBUG
+					if (!sections[j].days[day])
+						sections[j].days[day] = [ singleSession ];
+					else
+						sections[j].days[day].push( singleSession );
+				}
+			}
 			++j;
-			//console.log(sections[j]);
-			//console.log(boundaryInfo.courses[i]);
-			//console.log(++j);
 		}
 		oneSection.lastIndex = 0;
 	}
-	console.log(sections);
+	console.log( JSON.stringify(sections, null, 1) ); // DEBUG
 }
 
 //	The number of unique courses is the number of collapse lines. Courses range from:
