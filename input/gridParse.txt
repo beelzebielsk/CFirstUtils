@@ -1,0 +1,264 @@
+THE CITY COLLEGE ¿ SCHOOL OF ENGINEERING July 1, 2013
+Computer Engineering Curriculum
+Fall 2013 - Spring 2014
+Math 20100
+Calculus I
+Pre: Math 19500 (C min.)
+3 cr.
+Chem 10301
+General Chemistry I
+Pre: Math 19500
+4 cr.
+Engl 110006
+Freshman Composition
+3 cr.
+Engr 101006
+Engineering Design
+Pre/Co: Math 19500 (min.C)
+1 cr.
+CSc 10300
+Introduction to Computing for Majors
+Pre: Math 19500 (C min.)
+or Pre/Co: Math 20100 (C min.)
+3 cr.
+Liberal Arts4
+3 cr.
+Math 20200
+Calculus II
+Pre: Math 20100 (C min.)
+3 cr.
+Phys 20700
+General Physics I
+Pre/Co: Math 20200
+4 cr.
+Engr 10300
+Analysis Tools for Eng¿rs
+Pre: Math 20100 (C min.)
+2 cr.
+CSc 10400
+Discrete Math Structure I
+Pre: Math 20100 (C min.)
+4 cr.
+Engl 21007
+Writing for Engineering
+Pre: Eng 11000 or FIQWS
+3 cr.
+Math 20300
+Calculus III
+Pre: Math 20200 (C min.)
+4 cr.
+Phys 20800
+General Physics II
+Pre: Phys 20700
+Pre/Co: Math 20300
+4 cr.
+Engr 20400
+Electrical Circuits
+Pre/Co: Phys 20800 (C min.),
+Math 20300 (C min.)
+3 cr.
+EE 21000
+Switching Systems
+Pre: Math 20200 (C min.)
+3 cr.
+CSc 21200
+Data Structures
+Pre: CSc 10300 or permission, & 10400
+3 cr.
+Math 39100
+Differential Equations
+Pre: Math 20300
+3 cr.
+Math 39200
+Linear Algebra & Vector
+Pre: Math 20300
+3 cr.
+EE 20500
+Linear Systems I
+Pre: Engr 10300 & 20400
+Pre/Co: Math 39100 (C min.)
+3 cr.
+EE 24100
+Electronics I
+Pre: Phys 20800 (C min.)
+Pre/Co: EE 20500 & EE 21000
+3 cr.
+EE 31100
+Probability & Statistics
+Pre: Math 20300
+3 cr.
+CSc 22100
+Software Design Lab
+Pre: CSc 21200 &
+ Engl 21007 or 2100x
+3 cr.
+EE 22100
+EE Lab I
+Pre: EE 21000, Engr. 20400
+Pre/Co: Engr 10300
+1 cr.
+CSc 21000
+Assembly Language
+Pre: CSc 10300 or permission
+3 cr.
+EE 30600
+Linear Systems II
+Pre: EE 20500
+3 cr.
+EE 33000
+Electromagnetics
+Pre: Math 39100 (C min.) & 39200 (C min.)
+& Phys 20800 (C min.)
+3 cr.
+EE 31200
+Communication Theory
+Pre: EE 31100, EE 20500
+3 cr.
+CSc 22000
+Algorithms
+Pre: CSc 21200
+3 cr.
+EE 32200
+EE Lab II
+Pre: EE 22100 & EE 24100
+1 cr.
+EE 45700
+Digital Integrated Circuits
+Pre: EE 24100
+3 cr.
+CSc 33200
+Operating Systems
+Pre: CSc 22000 &
+(CSc 21700 or EE 31100)
+4 cr.
+CSc 34200
+Computer Organization
+Pre: (CSc 21000 & EE 21000) or CSc 21100
+Co: CSc 34300
+3 cr.
+CSc 34300
+Computer Organize Lab
+Coreq: CSc 34200
+1 cr.
+Liberal Arts4
+3 cr.
+Track Elective
+(from Systems track or
+Computation & Signal
+Processing track lists below)
+3 cr.
+CSc 59866
+Senior Project I
+Pre/Co: senior standing
+& permission
+or
+EE 59868
+Capstone Design for CpE I
+Pre: EE 32200,
+Pre/Co: Lab EE 42500
+& senior standing
+EE 42500
+Computer Engineering Lab
+Pre/Co: EE 34400 or 44400 or
+ (CSc 21000 & CSc 34200)
+1 cr.
+Computer Engineering
+Elective
+(from list below)
+3 cr.
+Liberal Arts4
+3 cr.
+Liberal Arts4
+3 cr. Two consecutive semesters 3 cr.
+Track Elective
+(from same track as above)
+3 cr.
+CSc 59867
+Senior Project II
+Pre: CSc 59866
+3cr.
+or
+EE 59869 Capstone Design for CpE II
+Pre: EE 59868
+Practice / Ethics Issues (1 Course) Liberal Arts4
+(20000 or higher)
+3 cr.
+Liberal Arts4
+(20000 or higher)
+3 cr.
+CSc 37500: Social Iss. Comp.
+EE 43800: Mng¿t Conc. Eng
+Phil 34902: Computer Ethics
+3 cr.
+Engr 27600: Eng. Economics
+Engr 30000: Impact Bio Tech
+Systems track Computation & Signal Processing track
+CSc 41200: Computer Networks
+EE 33300: Intro Antennas, Microwv & Fiber Ops
+EE 33900: Semiconductor Materials & Devices
+EE 37100: Linear Feedback Systems
+EE 45100: Communication Electronics
+EE 46000: Computer Communication Systems
+EE 46300: Wireless Communications
+Engr 23000: Thermodynamics
+Phys 32300: Quantum Mech for Applied Physics
+CSc 30100: Numerical Issues in Sci Programming
+CSc 47000: Image Processing
+CSc 47100: Computer Vision
+CSc 47200: Computer Graphics
+CSc 47900: Digital Libraries
+CSc 59944: Neural Computing
+CSc I1900: Pattern Recognition¿
+EE 45300: Digital Signal Processing
+EE I2200: Image Processing¿
+¿Available to students eligible to take graduate courses.
+Computer Engineering Electives
+CSc 30100
+CSc 30400
+CSc 31100
+CSc 32200
+CSc 33500
+CSc 33600
+CSc 41200
+CSc 42000
+CSc 42200
+CSc 42800
+CSc 43000
+CSc 43200
+CSc 43500
+CSc 43800
+CSc 44000
+CSc 44200
+CSc 44600
+CSc 44800
+CSc 45000
+CSc 45400
+CSc 47000
+CSc 47100
+CSc 47200
+CSc 47300
+CSc 47500
+CSc 47800
+CSc 47900
+CSc 48000
+CSc 48600
+CSc 51003
+BME 50500
+EE 33300
+EE 33900
+EE 34200
+EE 35700
+EE 37100
+EE 44100
+EE 45100
+EE 45200
+EE 45300
+EE 45400
+EE 45600
+EE 45800
+EE 46000
+EE 46200
+EE 46300
+EE 46400
+EE 51003
+1. The latest version of the curriculum sheet supersedes any curriculum and pre-/corequisite information 

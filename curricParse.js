@@ -29,7 +29,6 @@ var simpleCourse =
 	;
 
 console.log(simpleCourse);
-//console.log(requisites);
 
 // File Handling
 

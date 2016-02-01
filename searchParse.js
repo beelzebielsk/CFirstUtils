@@ -84,52 +84,16 @@ function processInput() {
 				instructors : result[6].trim().split('\n'),
 				dates				: result[7].trim().split('\n'),
 			};
-			sections[j]              = { name: boundaryInfo.courses[i].name };
-			sections[j].disc         = boundaryInfo.courses[i].disc;
-			sections[j].num          = boundaryInfo.courses[i].num;
-			sections[j].CFID         = result[1];
-			sections[j].sectionName  = result[2];
-			sections[j].sectionType  = result[3];
-			sections[j].isFull       = ( result[8].trim()[0] === 'O' ? false : true ); // Is it open?
-			sections[j].days = {};
-
-			for (var sessionSet = 0; sessionSet < sectionInfo.times.length; sessionSet++) {
-				var singleTime = RegExp(timeString_cap, 'i');
-				var matches = sectionInfo.times[sessionSet].match(singleTime);
-				// the singleTime regexp should have the following captures:
-				// -	0 : Whole string
-				// -	1 : String of consecutive days
-				// -	2 : Hour of first time
-				// -	3 : Minutes of first time
-				// -	4 : AM/PM of first time
-				// -	5 : Hour of second time    
-				// -	6 : Minutes of second time 
-				// -	7 : AM/PM of second time   
-				//console.log(matches); // DEBUG
-				var sectionDays = [];
-				for (var strIndex = 0; strIndex < matches[1].length ; strIndex += 2) {
-					sectionDays.push( matches[1].substr(strIndex, 2) )
-				}
-				//console.log(sectionDays); // DEBUG
-				var attendanceTime = sectionInfo.dates[sessionSet].match( RegExp( '(' + date + ') - (' + date + ')', 'i' ) );
-				var sessionStart = + (matches[2] + matches[3]) + ( matches[4] === "AM" ? 0 : 1200 );  
-				var sessionEnd = + (matches[5] + matches[6]) + ( matches[7] === "AM" ? 0 : 1200 );
-				for (var day of sectionDays) {
-					var singleSession = {
-						start    : sessionStart,
-						end      : sessionEnd,
-						prof     : sectionInfo.instructors[sessionSet],
-						room     : sectionInfo.rooms[sessionSet],
-						firstDay : attendanceTime[1],
-						lastDay  : attendanceTime[2],
-					}
-					//console.log(singleSession) // DEBUG
-					if (!sections[j].days[day])
-						sections[j].days[day] = [ singleSession ];
-					else
-						sections[j].days[day].push( singleSession );
-				}
-			}
+			sections[j] = {
+				name        : boundaryInfo.courses[i].name,
+				disc        : boundaryInfo.courses[i].disc,
+				num         : boundaryInfo.courses[i].num,
+				CFID        : result[1],
+				sectionName : result[2],
+				sectionType : result[3],
+				isFull      : ( result[8].trim()[0] === 'O' ? false : true ), // Is it open? TODO: Make case insensitive.
+				days        : getSessions( sectionInfo ),
+			};
 			++j;
 		}
 		oneSection.lastIndex = 0;
@@ -152,4 +116,48 @@ function getCourseBoundaries(str){
 	}
 
 	return { boundaries : listOfBoundaries, courses : listOfCourses };
+}
+
+// sectionInfo is an object with the following properties:
+//	-	times : an array of strings in the following format : '{day}+ {time} - {time}' (12-hour format)
+//	- rooms : an array of strings that are building names followed by room numbers.
+//	-	instructors : an array of strings that are instructor names.
+//	-	dates : an array of strings that represent dates. Format : 'mm/dd/yyyy'
+function getSessions( sectionInfo ) {
+	var days = {};
+
+	for (var sessionSet = 0; sessionSet < sectionInfo.times.length; sessionSet++) {
+		var singleTime = RegExp(timeString_cap, 'i');
+		var matches = sectionInfo.times[sessionSet].match(singleTime);
+		// the singleTime regexp should have the following captures:
+		// -	1 : String of consecutive days
+		// -	2 : Hour of start time
+		// -	3 : Minutes of start time
+		// -	4 : AM/PM of start time
+		// -	5 : Hour of end time    
+		// -	6 : Minutes of end time 
+		// -	7 : AM/PM of end time   
+		var sectionDays = [];
+		for (var strIndex = 0; strIndex < matches[1].length ; strIndex += 2) {
+			sectionDays.push( matches[1].substr(strIndex, 2) )
+		}
+		var attendanceTime = sectionInfo.dates[sessionSet].match( RegExp( '(' + date + ') - (' + date + ')', 'i' ) );
+		var sessionStart = + (matches[2] + matches[3]) + ( matches[4] === "AM" ? 0 : 1200 );  
+		var sessionEnd = + (matches[5] + matches[6]) + ( matches[7] === "AM" ? 0 : 1200 );
+		for (var day of sectionDays) {
+			var singleSession = {
+				start    : sessionStart,
+				end      : sessionEnd,
+				prof     : sectionInfo.instructors[sessionSet],
+				room     : sectionInfo.rooms[sessionSet],
+				firstDay : attendanceTime[1],
+				lastDay  : attendanceTime[2],
+			}
+			if (!days[day])
+				days[day] = [ singleSession ];
+			else
+				days[day].push( singleSession );
+		}
+	}
+	return days;
 }
